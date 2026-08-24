@@ -27,7 +27,7 @@
     "nx": "^23.0.1",
     "oxfmt": "^0.44.0",
     "oxlint": "^1.62.0",
-    "oxlint-tsgolint": "^0.20.0"
+    "oxlint-tsgolint": "^7.0.2001"
   },
   "engines": {
     "node": ">=24",
